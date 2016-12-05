@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 760643ca1a054f4488cb05863f868b4c
+timeCreated: 1480783562
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_0
+    21300002: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_1
+    21300004: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_2
+    21300006: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_3
+    21300008: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_4
+    21300010: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_5
+    21300012: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_6
+    21300014: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_7
+    21300016: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_8
+    21300018: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_9
+    21300020: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_10
+    21300022: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_11
+    21300024: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_12
+    21300026: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_13
+    21300028: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_14
+    21300030: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_15
+    21300032: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_16
+    21300034: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_17
+    21300036: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_18
+    21300038: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_19
+    21300040: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_20
+    21300042: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_21
+    21300044: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_22
+    21300046: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_23
+    21300048: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_24
+    21300050: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_25
+    21300052: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_26
+    21300054: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_27
+    21300056: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_28
+    21300058: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3369
+        width: 231
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3371
+        width: 228
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_2
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3371
+        width: 231
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3369
+        width: 231
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_4
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3369
+        width: 230
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_5
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3369
+        width: 231
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_6
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3371
+        width: 228
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_7
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 3369
+        width: 229
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2681
+        width: 231
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2683
+        width: 231
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2683
+        width: 231
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2681
+        width: 231
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2683
+        width: 231
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_13
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2680
+        width: 231
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_14
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2683
+        width: 231
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_15
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2683
+        width: 231
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_16
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2683
+        width: 231
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_17
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 2683
+        width: 231
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_18
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2683
+        width: 232
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_19
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 2683
+        width: 229
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_20
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 2683
+        width: 229
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_21
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2683
+        width: 231
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_22
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2683
+        width: 231
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_23
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 2683
+        width: 231
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_24
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 2683
+        width: 231
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_25
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 2683
+        width: 231
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_26
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 2683
+        width: 231
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_27
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 2683
+        width: 231
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_28
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 2683
+        width: 231
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ^7EFCF1AD44E1D9386FEB8F9BB7077FFFB212BAE57B1B34F864^pimgpsh_fullsize_distr_29
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 2683
+        width: 231
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
